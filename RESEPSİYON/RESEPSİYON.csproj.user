@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update=".Designer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GIRIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MAINMENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KONTROL PANELI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ODALAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MÜSTERI BILGILERI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ODA DURUMU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PERSONL BILGILERI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
